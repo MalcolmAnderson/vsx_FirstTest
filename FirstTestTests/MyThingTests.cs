@@ -15,7 +15,7 @@ namespace FirstTest
         {
             FirstTest.MyThing o = new FirstTest.MyThing();
             Assert.AreEqual(o.GetType().ToString(), "FirstTest.MyThing"); 
-            //adding a comment to force a different synch
+            //adding a comment to force a different synch2
         }
     }
 }
